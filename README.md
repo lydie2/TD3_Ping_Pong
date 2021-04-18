@@ -1,6 +1,6 @@
 # TD3_Ping_Pong
 
-Pour faire fonctioner le jeu, il faut :
+Pour faire fonctioner le jeu avec Node, il faut :
 
     se placer dans le dossier nommé "4_joueurs_node"
     lancer la commande nodemon app.js
